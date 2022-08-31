@@ -1,7 +1,5 @@
 # Django
 
-
-
 ## <mark> 1. Django intro</mark>
 
 #### 1-1. framework
@@ -23,8 +21,6 @@
 * 웹브라우저 : 웹에서 페이지를 찾아서 보여주고, 하이퍼링크를 통해 다른 페이지로 이동할 수 있게 하는 프로그램
 
 * 웹페이지 :웹에 있는 문서 (정적 웹페이지, 동적 웹페이지)
-
-
 
 ## <mark> 2. Django 구조</mark>
 
@@ -48,8 +44,6 @@
 
 * View : 클라이언트의 요청에 대해 처리
 
-
-
 ### <mark> 3. Django Template</mark>
 
 * DTL() Django Template Language) : 조건, 반복, 변수 치환, 필터 등의 기능을 제공
@@ -62,14 +56,10 @@
 
 * 주석 : `{# #}` / `{% comment %} {% endcomment %}`
 
-
-
 ### <mark> 4. Django Inheritance</mark>
 
 * 템플릿 상속은 기본적으로 코드의 재사용성에 초점
 
 * 템플릿 상속에 관련된 태그 : `{% extends ''%}`
-
-
 
 # 
