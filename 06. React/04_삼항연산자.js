@@ -1,0 +1,14 @@
+// let person = {
+//   name: "noona",
+//   age: 17,
+// };
+
+let person = null; // false
+
+if (person) {
+  console.log(person.name);
+} else {
+  console.log("there is no person");
+}
+
+console.log(person ? person.name : "there is no person");
