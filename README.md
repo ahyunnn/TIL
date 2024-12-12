@@ -2,3 +2,4 @@
 
 1. `encodeURIComponent`
 2. `axios - contentType, responseType`
+3. `axios - AbortController`
