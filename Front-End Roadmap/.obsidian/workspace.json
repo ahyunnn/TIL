@@ -11,10 +11,14 @@
             "id": "1bf145bf37863ae6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1. Internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Internet"
             }
           }
         ]
@@ -163,6 +167,7 @@
   },
   "active": "1bf145bf37863ae6",
   "lastOpenFiles": [
+    "2. HTTP.md",
     "1. Internet.md"
   ]
 }
