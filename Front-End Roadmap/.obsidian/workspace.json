@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "1. Internet"
             }
+          },
+          {
+            "id": "6c87c25b7505732c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. HTML.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. HTML"
+            }
+          },
+          {
+            "id": "d3360117feb6fbd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. CSS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. CSS"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -165,10 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b088f01e768c38c5",
+  "active": "d3360117feb6fbd7",
   "lastOpenFiles": [
+    "2. HTML.md",
+    "3. CSS.md",
+    "1. Internet.md",
     "assets/Pasted image 20250311203726.png",
-    "2. HTTP.md",
-    "1. Internet.md"
+    "2. HTTP.md"
   ]
 }
