@@ -51,6 +51,26 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "a49abd87816531c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a6690e02d922bc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Internet.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Internet"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,19 +216,19 @@
   },
   "active": "cecb65fa9f9dabcc",
   "lastOpenFiles": [
-    "KakaoTalk_20250331_200223007.jpg",
-    "KakaoTalk_20250331_200223007_01.jpg",
-    "8. Build Tools.md",
-    "9. Web Security Knowledge.md",
-    "7. Framework.md",
     "1. Internet.md",
+    "9. Web Security Knowledge.md",
+    "8. Build Tools.md",
+    "assets/html2.png",
+    "7. Framework.md",
+    "assets/html.png",
+    "assets/cors1.jpg",
+    "assets/cors2.jpg",
     "2. HTML.md",
     "5. Version Control System (VCS).md",
     "3. CSS.md",
     "6. Package Manager.md",
     "4. JavaScript.md",
-    "Pasted image 20250318213606.png",
-    "assets/Pasted image 20250311203726.png",
     "2. HTTP.md"
   ]
 }
