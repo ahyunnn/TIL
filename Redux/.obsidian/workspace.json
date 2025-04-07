@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "2. Practice"
             }
+          },
+          {
+            "id": "40b4151f0781dfa2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +193,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58dc03b9646735cf",
+  "active": "40b4151f0781dfa2",
   "lastOpenFiles": [
-    "1. Redux.md",
+    "3. naming.md",
     "2. Practice.md",
+    "1. Redux.md",
     "assets/redux-structure.jpg",
     "assets/KakaoTalk_20250402_215051781.jpg",
     "assets",
