@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "d5ec0c3485b63edc",
+    "type": "split",
+    "children": [
+      {
+        "id": "464d8a5af689eadf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98d2e3828fa54ffe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Optional Modifier, Nullish coalescing operator.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Optional Modifier, Nullish coalescing operator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d7b1be101d4c552b",
+    "type": "split",
+    "children": [
+      {
+        "id": "23e5ebe6ce27be00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcadba49dd389445",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "File explorer"
+            }
+          },
+          {
+            "id": "26a4b1a39cf9202e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "39ab0aba9c0cfaa2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c5a995428b5da250",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd1b81fa9e90734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7638a476e6763b8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Optional Modifier, Nullish coalescing operator.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Optional Modifier, Nullish coalescing operator"
+            }
+          },
+          {
+            "id": "681188f95b3445df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Optional Modifier, Nullish coalescing operator.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Optional Modifier, Nullish coalescing operator"
+            }
+          },
+          {
+            "id": "0fffb54ecd073312",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d5d3ef7afc8d922",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Optional Modifier, Nullish coalescing operator.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Optional Modifier, Nullish coalescing operator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "98d2e3828fa54ffe",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "1. Optional Modifier, Nullish coalescing operator.md"
+  ]
+}
