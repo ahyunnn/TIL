@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. Web Components.md",
+                "file": "10. Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "13. Web Components"
+              "title": "10. Testing"
             }
           }
         ],
@@ -212,8 +212,8 @@
   },
   "active": "0d10e18ae51d3649",
   "lastOpenFiles": [
-    "12. Web Security Knowledge.md",
     "13. Web Components.md",
+    "12. Web Security Knowledge.md",
     "11. Authentication Strategies.md",
     "assets/google.jpg",
     "9. Web Security Knowledge.md",
